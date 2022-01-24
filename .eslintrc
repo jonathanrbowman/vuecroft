@@ -1,0 +1,7 @@
+{
+  "extends": ["plugin:vue/base"],
+  "rules": {
+    "no-unused-vars": "off",
+    "no-prototype-builtins": "off"
+  }
+}
